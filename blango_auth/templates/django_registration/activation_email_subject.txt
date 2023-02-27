@@ -1,0 +1,1 @@
+Blango Registration. You have {{ expiration_days }} days to activate your account.
